@@ -1,4 +1,4 @@
-# 🛠️ Maintenance Categorization of Oil-Immersed Transformers Based on Machine Learning
+#  Maintenance Categorization of Oil-Immersed Transformers Based on Machine Learning
 
 Este repositorio contiene la implementación del método propuesto en el artículo:
 
@@ -9,7 +9,7 @@ El código automatiza la **clasificación del estado de transformadores de poten
 
 ---
 
-## 🚀 Metodología
+##  Metodología
 
 El pipeline implementado consta de tres fases principales:
 
@@ -28,7 +28,7 @@ El pipeline implementado consta de tres fases principales:
 
 ---
 
-## 📊 Variables fisicoquímicas
+##  Variables fisicoquímicas
 
 El análisis se basa en seis parámetros del aceite dieléctrico:
 
@@ -43,7 +43,7 @@ Base de datos: **180 transformadores en operación en el sistema eléctrico colo
 
 ---
 
-## 📈 Resultados destacados
+##  Resultados destacados
 
 - **Silhouette Score (K=3):** 0.62  
 - **Exactitud XGBoost:** ~89 %  
