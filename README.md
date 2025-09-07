@@ -12,30 +12,22 @@ Cada fase se describe en el código y en las tablas/figuras generadas, garantiza
 
 ---
 
-## 📊¿Qué puedes encontrar en este repositorio?
+## ¿Qué puedes encontrar en este repositorio?
 
 En este repositorio encontrarás el código fuente y los datos utilizados para implementar la metodología planteada en el artículo.  
 
 ### Estructura del repositorio
 
+- **`Maintenance_Categorization_of_Oil_Immersed_Transformers_Based_on_Machine_Learning.ipynb`**  
+  Notebook de Jupyter/Colab con la implementación paso a paso de la metodología, incluyendo código, resultados intermedios y explicaciones.
+
 - **`maintenance_categorization_of_oil_immersed_transformers_based_on_machine_learning.py`**  
-  Script principal en Python que contiene la implementación completa del pipeline:  
-  - Preprocesamiento de datos (limpieza, imputación, normalización).  
-  - Segmentación mediante K-Means.  
-  - Clasificación con XGBoost.  
-  - Generación de resultados (tablas y gráficas).  
-
-- **`DATA_frame.csv`**  
-  Base de datos con las mediciones fisicoquímicas de **180 transformadores** (tensión interfacial, número ácido, rigidez dieléctrica, contenido de humedad, furanos y un índice de calidad).  
-
-- **`results/`**  
-  Carpeta que almacena las salidas gráficas y tablas generadas automáticamente:  
-  - **Figuras 1–8** → representaciones de variables, clústeres, matriz de confusión y métricas del modelo.  
-  - **Tablas I–III** → estadísticas por clúster, métricas de rendimiento y asignación de mantenimiento CBM.  
+  Script en Python generado a partir del notebook, listo para ejecutarse directamente en cualquier entorno local.
+  
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python 3.x  
 - Pandas, NumPy  
@@ -45,12 +37,6 @@ En este repositorio encontrarás el código fuente y los datos utilizados para i
 
 ---
 
-## ▶️ Ejecución
-
-1. Clona este repositorio en tu máquina:  
-```bash
-git clone https://github.com/tu_usuario/transformer-maintenance-ml.git
-cd transformer-maintenance-ml
 
 
 
