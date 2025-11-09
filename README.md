@@ -1,3 +1,6 @@
+![Uploading GRAPHICAL_ABSTRACT_10_11_2025.png…]()
+
+
 # Estrategia de Clasificación para la Evaluación del Mantenimiento de Transformadores Sumergidos en Aceite Basada en Machine Learning
 
 En este repositorio se presenta una **estrategia metodológica** que permite la clasificación y priorización del mantenimiento de transformadores de potencia en servicio, a partir de los **parámetros fisicoquímicos del aceite dieléctrico**.  
