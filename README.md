@@ -1,4 +1,6 @@
-<img width="7023" height="2044" alt="GRAPHICAL_ABSTRACT_10_11_2025" src="https://github.com/user-attachments/assets/b530a367-de1c-4e90-bbc5-76326b0857eb" /><img width="7023" height="2044" alt="GRAPHICAL_ABSTRACT_10_11_2025" src="https://github.com/user-attachments/assets/f185da20-a567-4e65-950a-e033c7c3737b" /># Estrategia de Clasificación para la Evaluación del Mantenimiento de Transformadores Sumergidos en Aceite Basada en Machine Learning
+<img width="7023" height="2044" alt="GRAPHICAL_ABSTRACT_10_11_2025" src="https://github.com/user-attachments/assets/b530a367-de1c-4e90-bbc5-76326b0857eb" /><img width="7023" height="2044" alt="GRAPHICAL_ABSTRACT_10_11_2025" src="https://github.com/user-attachments/assets/f185da20-a567-4e65-950a-e033c7c3737b" />
+
+# Estrategia de Clasificación para la Evaluación del Mantenimiento de Transformadores Sumergidos en Aceite Basada en Machine Learning
 
 En este repositorio se presenta una **estrategia metodológica** que permite la clasificación y priorización del mantenimiento de transformadores de potencia en servicio, a partir de los **parámetros fisicoquímicos del aceite dieléctrico**.  
 La estrategia propuesta integra técnicas de **aprendizaje automático** para apoyar el esquema de **Condition-Based Maintenance (CBM)** en sistemas eléctricos de potencia.
