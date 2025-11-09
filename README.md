@@ -1,4 +1,5 @@
-<img width="7023" height="2044" alt="GRAPHICAL_ABSTRACT_10_11_2025" src="https://github.com/user-attachments/assets/b530a367-de1c-4e90-bbc5-76326b0857eb" /><img width="7023" height="2044" alt="GRAPHICAL_ABSTRACT_10_11_2025" src="https://github.com/user-attachments/assets/f185da20-a567-4e65-950a-e033c7c3737b" />
+<img width="7023" height="2044" alt="GRAPHICAL_ABSTRACT_10_11_2025" src="https://github.com/user-attachments/assets/79aa1619-7af1-49b8-84dd-5b689c84f2fb" />
+
 
 # Estrategia de Clasificación para la Evaluación del Mantenimiento de Transformadores Sumergidos en Aceite Basada en Machine Learning
 
